@@ -1,0 +1,14 @@
+[
+  {
+    "path": "assets/1.json",
+    "error": "missing field `attributes` at line 20 column 1"
+  },
+  {
+    "path": "assets/0.json",
+    "error": "missing field `attributes` at line 20 column 1"
+  },
+  {
+    "path": "assets/2.json",
+    "error": "missing field `attributes` at line 20 column 1"
+  }
+]

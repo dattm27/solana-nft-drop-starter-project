@@ -1,0 +1,27 @@
+{
+    "price": 0.1,
+    "number": 3,
+    "symbol": "DAT",
+    "gatekeeper": null,
+    "creators": [
+        {
+            "address": "DY58bgamdUCyRLJwT3Dix4vGVVDhPVq6NNKigyeArYfA",
+            "share": 100
+        }
+    ],
+    "solTreasuryAccount": "DY58bgamdUCyRLJwT3Dix4vGVVDhPVq6NNKigyeArYfA",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "21 Sep 2025 00:00:00 GMT",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "arweave",
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "awsS3Bucket": null,
+    "uploadMethod": "bundlr",
+    "retainAuthority": true,
+    "isMutable": true,
+    "sellerFeeBasisPoints": 500
+}
